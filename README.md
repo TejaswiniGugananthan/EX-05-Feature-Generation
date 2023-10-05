@@ -7,7 +7,6 @@ To read the given data and perform Feature Generation process and save the data 
 # EXPLANATION:
 Feature Generation (also known as feature construction, feature extraction or feature engineering) is the process of transforming features into new features that better relate to the target.
  
-
 # ALGORITHM:
 ### STEP 1
 Read the given Data
